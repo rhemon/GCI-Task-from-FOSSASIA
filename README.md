@@ -1,7 +1,7 @@
 # GCI-Task-from-FOSSASIA
 
 # How I use Git and GitHub
-I already had a github account with the username “rhemon” before this task. Github is one of the most amazing thing I have ever found.
+I already had a github account with the username “rhemon” before this task. Git is one of the most amazing thing I have ever found.
 
 # Git
 
